@@ -87,19 +87,19 @@ Detailed quantitative evaluations, error metrics, and comparisons between differ
 
 ### Temperature Field Prediction
 
-![Temperature prediction](results/temperature_prediction.png)
+![Temperature prediction](figures/temperature_prediction.png)
 
 ### Velocity Field Prediction
 
-![Velocity prediction](results/velocity_prediction.png)
+![Velocity prediction](figures/velocity_prediction.png)
 
 ### Pressure Field Prediction
 
-![Pressure prediction](results/pressure_prediction.png)
+![Pressure prediction](figures/pressure_prediction.png)
 
 ### Mesh Coarsening and KNN Graph Construction
 
-![Mesh coarsening with KNN construction](results/mesh_coarsening_with_KNN_construction.png)
+![Mesh coarsening with KNN construction](figures/mesh_coarsening_with_KNN_construction.png)
 ## Technologies
 - Python
 - PyTorch
