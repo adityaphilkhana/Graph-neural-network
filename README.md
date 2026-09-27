@@ -87,11 +87,11 @@ Detailed quantitative evaluations, error metrics, and comparisons between differ
 
 ### Temperature Field Prediction
 
-![Temperature prediction](results/Temperature_prediction.png)
+![Temperature prediction](results/temperature_prediction.png)
 
 ### Velocity Field Prediction
 
-![Velocity prediction](results/Velocity_prediction.png)
+![Velocity prediction](results/velocity_prediction.png)
 
 ### Pressure Field Prediction
 
