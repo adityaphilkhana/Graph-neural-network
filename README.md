@@ -1,3 +1,9 @@
+## Repository Scope
+
+This repository provides an overview of the Graph Neural Network and Physics-Informed Graph Neural Network (PIGNN) framework with visualization results for one case. 
+
+The complete implementation code, training pipeline, simulation data, and detailed evaluation results are maintained separately. Access to additional materials can be provided upon reasonable request for research or collaboration purposes.
+
 # Physics-Informed Graph Neural Network for CFD Acceleration
 This repository contains the implementation of Graph Neural Networks (GNNs) and Physics-Informed Graph Neural Networks (PI-GNNs) for accelerating steady-state 
 Conjugate Heat Transfer (CHT) simulations of liquid-cooled cold plates. The framework learns state-to-state transitions on CFD mesh graphs and predicts thermal and fluid fields including temperature, pressure, and velocity for complex cooling geometries such as pin-fin arrays and Triply Periodic Minimal Surface (TPMS) structures. The project was developed as part of a Master's thesis investigating machine learning  approaches for accelerating CFD-supported thermal management design workflows.
@@ -113,5 +119,6 @@ Detailed quantitative evaluations, error metrics, and comparisons between differ
 Detailed explanation in the research
 ## Future Work
 Detailed explanation in the research
+
 ## Citation
 Philkhana, VRA (2026). Physics-Informed Graph Neural Network Framework for the Thermal Management of Electronic Components (Master's thesis). Deggendorf Technical University.
