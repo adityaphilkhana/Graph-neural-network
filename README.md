@@ -95,7 +95,7 @@ Detailed quantitative evaluations, error metrics, and comparisons between differ
 
 ### Pressure Field Prediction
 
-![Pressure prediction](results/Pressure_prediction.png)
+![Pressure prediction](results/pressure_prediction.png)
 
 ### Mesh Coarsening and KNN Graph Construction
 
